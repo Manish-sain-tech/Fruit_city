@@ -1,2 +1,3 @@
 # Fruit_city
-I made a 2d game fruit_city using python 
+I made a 2d game fruit_city using python pygame
+still adding more features.......
